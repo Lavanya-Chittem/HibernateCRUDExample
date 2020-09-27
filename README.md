@@ -10,3 +10,5 @@
     MySQL Server Community Edition 6.0.5
     MySQL Connector J - JDBC driver library for MySQL
     
+3. I've attached project structure image (Project Structure.PNG)
+    
